@@ -53,3 +53,9 @@ Simulates loading animation while adding a student
 Integer & Double for data conversion
 
 Demonstrates autoboxing/unboxing
+
+*** How to RUN?? ***
+
+cd student_mgmt
+javac Main.java
+java Main
